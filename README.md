@@ -1,7 +1,7 @@
 # Numeric arithmetic in plain English | py-attr-num
 > Created by Nicholas Ramsay
 
-This is an abomination of a python class. Here's what it does:
+This is an abomination of a python class, please don't actually use it. Here's what it does:
 
 ```py
 from AttrNum import AttrNum
